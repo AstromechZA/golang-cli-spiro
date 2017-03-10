@@ -1,0 +1,5 @@
+/{{.project_name}}
+/.vscode
+/build/*
+*.tar.gz
+/vendor/*/

@@ -1,0 +1,4 @@
+# set your Golang package path here
+# the project_path should not contain the project_name and should not end in a slash
+project_path: github.com/username
+project_name: myproject
