@@ -2,3 +2,11 @@
 # the project_path should not contain the project_name and should not end in a slash
 project_path: github.com/username
 project_name: myproject
+
+# specify a license for the project
+# see https://choosealicense.com/licenses/ for a list of the licenses
+license:
+    # this can be mit|apache|none
+    type: apache
+    # change this to reflect the name, group, company, or organisation
+    owner: username
